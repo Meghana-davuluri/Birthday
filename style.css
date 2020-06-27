@@ -17,6 +17,13 @@
     background-size: cover;
     background-position: center;
 }
+.aud{
+    display: block;
+    position: absolute;
+    top:250px;
+    left:40px;
+    padding-left: 900px; 
+ }   
 
 .image{
     display: block;
